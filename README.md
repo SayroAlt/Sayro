@@ -1,9 +1,8 @@
-
 # 🚀 Hi there, I'm Sayro!
 
 **Full-Stack Developer | SysAdmin & Cybersecurity Enthusiast 🇫🇷**
 
-I'm a developer based in France, passionate about **software development, cybersecurity, AI, infrastructure, and automation**.
+I'm a French developer based in Los Angeles, passionate about **software development, cybersecurity, AI, infrastructure, and automation**.
 
 I love building innovative applications, experimenting with new technologies, and transforming ambitious ideas into real projects.
 
